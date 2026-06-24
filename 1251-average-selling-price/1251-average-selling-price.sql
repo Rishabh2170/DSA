@@ -1,4 +1,3 @@
-
 select 
 p.product_id ,
         round(
