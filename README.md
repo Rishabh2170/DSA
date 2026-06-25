@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Rishabh2170/DSA/tree/master/0185-department-top-three-salaries) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Rishabh2170/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1211-queries-quality-and-percentage](https://github.com/Rishabh2170/DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Rishabh2170/DSA/tree/master/1251-average-selling-price) |
 ## Array
