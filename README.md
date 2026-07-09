@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/Rishabh2170/DSA/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/Rishabh2170/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/Rishabh2170/DSA/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Rishabh2170/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Array
 |  |
 | ------- |
