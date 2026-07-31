@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rishabh2170/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh2170/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/Rishabh2170/DSA/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Rishabh2170/DSA/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Rishabh2170/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
