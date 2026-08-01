@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rishabh2170/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh2170/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Rishabh2170/DSA/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Rishabh2170/DSA/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rishabh2170/DSA/tree/master/0066-plus-one) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Rishabh2170/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
