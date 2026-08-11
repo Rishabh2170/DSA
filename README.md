@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh2170/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Rishabh2170/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Rishabh2170/DSA/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishabh2170/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh2170/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishabh2170/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## String
 |  |
 | ------- |
