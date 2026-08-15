@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishabh2170/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Rishabh2170/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh2170/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Rishabh2170/DSA/tree/master/0066-plus-one) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishabh2170/DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Rishabh2170/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rishabh2170/DSA/tree/master/0242-valid-anagram) |
 ## String Matching
