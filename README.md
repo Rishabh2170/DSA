@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rishabh2170/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/Rishabh2170/DSA/tree/master/1873-calculate-special-bonus) |
 | [3497-analyze-subscription-conversion](https://github.com/Rishabh2170/DSA/tree/master/3497-analyze-subscription-conversion) |
+| [3521-find-product-recommendation-pairs](https://github.com/Rishabh2170/DSA/tree/master/3521-find-product-recommendation-pairs) |
 ## Array
 |  |
 | ------- |
