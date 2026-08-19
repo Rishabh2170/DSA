@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/Rishabh2170/DSA/tree/master/1873-calculate-special-bonus) |
 | [3497-analyze-subscription-conversion](https://github.com/Rishabh2170/DSA/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/Rishabh2170/DSA/tree/master/3521-find-product-recommendation-pairs) |
+| [3570-find-books-with-no-available-copies](https://github.com/Rishabh2170/DSA/tree/master/3570-find-books-with-no-available-copies) |
 ## Array
 |  |
 | ------- |
