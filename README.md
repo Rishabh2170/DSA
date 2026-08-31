@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Rishabh2170/DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Rishabh2170/DSA/tree/master/0176-second-highest-salary) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Rishabh2170/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/Rishabh2170/DSA/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rishabh2170/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1179-reformat-department-table](https://github.com/Rishabh2170/DSA/tree/master/1179-reformat-department-table) |
