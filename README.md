@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rishabh2170/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/Rishabh2170/DSA/tree/master/1873-calculate-special-bonus) |
 | [1934-confirmation-rate](https://github.com/Rishabh2170/DSA/tree/master/1934-confirmation-rate) |
+| [3475-dna-pattern-recognition](https://github.com/Rishabh2170/DSA/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/Rishabh2170/DSA/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/Rishabh2170/DSA/tree/master/3521-find-product-recommendation-pairs) |
 | [3570-find-books-with-no-available-copies](https://github.com/Rishabh2170/DSA/tree/master/3570-find-books-with-no-available-copies) |
