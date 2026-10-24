@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Rishabh2170/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishabh2170/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh2170/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishabh2170/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Rishabh2170/DSA/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -101,9 +103,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Rishabh2170/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rishabh2170/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Rishabh2170/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Rishabh2170/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rishabh2170/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Rishabh2170/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Rishabh2170/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
